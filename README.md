@@ -7,7 +7,7 @@ Completed: 06/25/2023
 
 Platform developed: Windows 11, PyCharm CE 2023
 
-## problem statement: 
+## Problem statement: 
 The program should essentially prompt the user to enter a command, and process the command as follows:
 
 #### 1 (add):
