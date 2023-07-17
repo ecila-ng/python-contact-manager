@@ -29,3 +29,14 @@ This option allows the user to remove a contact from the contact list. The user 
 If the contact exists in the list, it will be deleted from the 'contact.txt' file, effectively removing it from the contact management system.
 
 #### 6 (quit), which should stop the running program.
+
+## Demo:
+
+![1](https://github.com/nhbaotran/python-contact-manager/blob/main/Screenshots%20(1).png)
+![2](https://github.com/nhbaotran/python-contact-manager/blob/main/Screenshots%20(2).png)
+![3](https://github.com/nhbaotran/python-contact-manager/blob/main/Screenshots%20(3).png)
+![4](https://github.com/nhbaotran/python-contact-manager/blob/main/Screenshots%20(4).png)
+![5](https://github.com/nhbaotran/python-contact-manager/blob/main/Screenshots%20(5).png)
+![6](https://github.com/nhbaotran/python-contact-manager/blob/main/Screenshots%20(6).png)
+
+
